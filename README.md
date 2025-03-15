@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakdattagupta&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayakdattagupta&hide=html,css)
