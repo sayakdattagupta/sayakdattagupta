@@ -1,7 +1,7 @@
 import requests
 from collections import defaultdict
 
-USERNAME = "$GITHUBUSERNAME"
+USERNAME = "sayakdattagupta"
 
 def get_repos():
     repos = []
