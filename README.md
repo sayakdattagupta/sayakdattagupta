@@ -3,7 +3,7 @@
 
 - C++: 60.27%
 - HTML: 23.33%
-- Vue: 8.36%
+- Vue: 8.37%
 - CSS: 3.74%
 - JavaScript: 3.04%
 - Python: 1.06%
