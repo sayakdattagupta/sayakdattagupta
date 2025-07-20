@@ -1,11 +1,11 @@
 
 ### [Languages Used](https://github.com/sayakdattagupta/profstats) 
 
-- C++: 57.21%
-- HTML: 22.61%
-- Vue: 11.59%
-- CSS: 3.79%
-- JavaScript: 3.61%
+- C++: 56.92%
+- HTML: 22.94%
+- Vue: 11.53%
+- CSS: 3.84%
+- JavaScript: 3.59%
 - Python: 1.00%
 - Shell: 0.12%
 - Assembly: 0.07%
