@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="/banner.jpg" alt="Centered Banner" width="100%">
-
-  <p><i>Wanderer above the Sea of Fog</i></p>
+# hi
 
 <img src="https://komarev.com/ghpvc/?username=sayakdattagupta&color=blue&style=pixel&label=PROFILE+VISITS" alt="Profile Visits">
 
